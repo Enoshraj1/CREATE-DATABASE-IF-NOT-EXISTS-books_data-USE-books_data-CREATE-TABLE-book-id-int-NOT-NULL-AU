@@ -1,0 +1,1 @@
+# CREATE-DATABASE-IF-NOT-EXISTS-books_data-USE-books_data-CREATE-TABLE-book-id-int-NOT-NULL-AU
